@@ -34,9 +34,9 @@ I hold an Irish, German and British passport - I was born in Ireland to a German
 
 I'm into wood working (I have an ever-expanding workshop), electronics (IoTs), RC model flying, gardening and outdoor sports.  Nowadays sports have to be easy on my knees... they're not so fit any more... :(  I have a ton of hobbies I was once into and I find it difficult to let go of the paraphernalia... you never know, I might get into diving or sailing again one day!
 
-## The right spot
+## Right and wrong
 
-Right now I have a pretty clear idea of where the right spot is, and what is right and what is wrong.  But I'm open to reassessing and re-defining what and where the right spot is.
+I usually have a strong opinion on what is right and what is wrong, but that opinion can be changed given persuasive evidence.
 
 ## Meetings
 
@@ -54,17 +54,18 @@ Customers come first... but just a bit before that comes the team.  If we stick 
 Honesty has precedence over team first - I will not lie to customers just to be behind the team.
 
 
-## Transparancy
+## Transparency
 
 I wish there was more transparency in the world.  In all systems I will be looking for ways to (safely) allow access to more data by more people.  I believe the best decisions are made by well informed people, and so there is always value in making data accessible, even if the benefits are not immediately visible.
 Data should not only be accessible (i.e. I can technically get it), but understandable (presented / stored in a manner that it is useful).
 
 ## Memory
 
-I think many people rely on their memory too much - memory is fickle and fragile.  If you ask me about something I did last week, I may not 
-If I have worked intimately with you for a year, and stumble trying to recall your name when introducing you to someone, please don't take it personally... even though I practice, names and birthdays are very difficult for me; I am not confident of recalling the birth dates and middle names of my own children without using my address book.
+I think many people rely on their memory too much - memory is fickle and fragile.  If you ask me about something I said last week, I may not be able to recall it and will rather trust my notes than my memory.
+If I have worked intimately with you for a year, and stumble trying to recall your name when introducing you to someone, please don't take it personally... even though I practice, names and birthdays remain very difficult for me; I am not confident of recalling the birth dates and middle names of my own children without looking them up in my address book.
+Strangely I am very good at remembering events, activities, maps, trivia and technical documentation...
 
-## Erata
+## Miscellaneous
 
 Wasting time is a trigger for me.
 
