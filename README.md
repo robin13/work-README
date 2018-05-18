@@ -50,7 +50,7 @@ To connect remotely I find good audio and video really important.  If I can't he
 
 ## Team first
 
-Customers come first... but just a bit before that comes the team.  If we stick up for, help and look out for each other then are the best that we can be, and a natural result of that will be the best customer experience possible.
+Customers come first... but just a bit before that comes the team.  If we stick up for, help and look out for each other then we will be the best that we can be, and a natural result of that will be the best customer experience possible.
 Honesty has precedence over team first - I will not lie to customers just to be behind the team.
 
 
