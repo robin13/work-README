@@ -28,6 +28,6 @@ Good down-to-earth about running a business which highlights why keeping it simp
 
 I love the idea of setting up a company to work without managers, allow maximum flexibility to employees, while providing the framework for each employee to be most engaged and committed to the success of the company.
 
-## Affiliate links
+----------------------------------------------------------------------------------------
 
 p.s. This page contains affiliate links.

@@ -19,7 +19,7 @@ I believe that most humans are trying to to do the right thing, but unconscious 
 
 ## Work and play
 
-I am passionate about work - if I become unpassionate I will be leaving the job soon.  I am also passionate about my family and my hobbies.  I clock in/out of work using a timing app to ensure that I work enough _and_ not too much - I have found that if I keep regular hours and balance my work time well with family and hobby time between I do not burn out and am very rarely sick.  Subsequently, I do not like it when work does not respect my need for down-time.  I can burn the candle on both ends for a few days, but will refuse to continue doing it to the detriment of my health.
+I want to be emotionally involved in my work - if I become bored I will be leaving the job soon.  My family and hobbies are very important to me too.  I clock in/out of work using a timing app to ensure that I work enough _and_ not too much - I have found that if I keep regular hours and balance my work time well with family and hobby time between I do not burn out and am very rarely sick.  Subsequently, I do not like it when work does not respect my need for down-time.  I _can_ burn the candle on both ends for a few days, but will refuse to continue doing it to the detriment of my health.
 I often think about and sometimes do work during my down-time, but this is my choice.  If I write to you on a Saturday evening, I don't expect you to respond, and likewise I hope you don't expect me to respond (even if I sometimes do).
 
 ## Family facts
@@ -85,6 +85,14 @@ Data should not only be accessible (i.e. I can technically get it), but understa
 Wasting time is a trigger for me.
 
 Belief looses to facts every time.
+
+## Books, videos and podcasts
+
+Books, videos and podcasts on work related topics which I recommend:
+
+- [reading](reading-list.md)
+- [videos](videos-list.md)
+- [podcasts/audio](audio-list.md)
 
 ## Finally
 
