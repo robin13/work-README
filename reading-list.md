@@ -31,5 +31,3 @@ I love the idea of setting up a company to work without managers, allow maximum 
 ----------------------------------------------------------------------------------------
 
 p.s. This page contains affiliate links.
-
-<!-- Testing commenting on GitHub -->
