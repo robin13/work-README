@@ -80,11 +80,18 @@ I can agree to disagree and do the work necessary if a higher authority has made
 I wish there was more transparency in the world.  In all systems I will be looking for ways to (safely) allow access to more data by more people.  I believe the best decisions are made by well informed people, and so there is always value in making data accessible, even if the benefits are not immediately visible.
 Data should not only be accessible (i.e. I can technically get it), but understandable (presented / stored in a manner that it is useful).
 
+## Context switching
+
+Context switching is hard for everyone.  Especially me... I distract myself easily.
+In our work it is difficult/impossible to avoid context switching altogether, but every reduction is a bonus.
+A pet-peeve of mine is when people send me a direct (Slack/WhatsApp/...) message saying just "Hello Robin" (usually followed a minute later by the actual question/statement) - it is unnecessarily grabbing my attention without any useful communication and wastes my time then watching the screen waiting for the next messsage to come.
+
 ## Miscellaneous
 
 Wasting time is a trigger for me.
 
 Belief looses to facts every time.
+
 
 ## Books, videos and podcasts
 
