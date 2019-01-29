@@ -103,4 +103,4 @@ Books, videos and podcasts on work related topics which I recommend:
 
 ## Finally
 
-This document is a living breathing thing and likely incomplete. I will update it frequently and would appreciate your feedback if you notice something about me or the way I am which you think should be included here.
+This document is a living breathing thing and likely incomplete. I will update it as necessary and would appreciate your feedback if you notice something about me or the way I am which you think should be included here.
